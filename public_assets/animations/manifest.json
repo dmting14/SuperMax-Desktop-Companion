@@ -1,0 +1,16 @@
+{
+  "CanvasWidth": 480,
+  "CanvasHeight": 760,
+  "CharacterHeight": 700,
+  "GroundY": 734,
+  "DefaultClip": "walk_right",
+  "Clips": [
+    {
+      "Id": "walk_right",
+      "Name": "Original public stick-figure walk",
+      "Folder": "walk_right",
+      "Fps": 24,
+      "Loop": true
+    }
+  ]
+}
